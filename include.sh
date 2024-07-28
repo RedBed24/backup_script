@@ -1,5 +1,6 @@
 # TODO: check this list
 # item has whitespace? Scape it!
+# use /./ for relative cp
 export INCLUDE="
 ~/./.bashrc
 ~/./Games/
