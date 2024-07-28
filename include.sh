@@ -21,7 +21,5 @@ export INCLUDE="
 ~/./Pictures/
 ~/./Videos/
 ~/./.vimrc
-~/./.vscode/
-~/./.vscode-oss/
 ~/./Workspaces/
 "
