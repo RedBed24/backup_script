@@ -45,4 +45,4 @@ export FLAGS="-PRiva --backup-dir=${BACKUP_DIR}"
 
 source include.sh
 
-echo ${INCLUDE}
+rsync --dry-run ${FLAGS} ${INCLUDE} ${DEST_DIR}
