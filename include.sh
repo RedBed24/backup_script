@@ -4,13 +4,16 @@
 export INCLUDE="
 ~/./Games/
 
+~/./.config/VSCodium/User/settings.json
+~/./.config/alacritty/
+~/./.config/bash/
+~/./.bashrc
 ~/./.gitconfig
 ~/./.gitignore
 ~/./.inputrc
 ~/./Documents/
-~/./git/
 ~/./Music/
 ~/./Pictures/
 ~/./.vimrc
-~/./Workspaces/
+~/./Projects/
 "
