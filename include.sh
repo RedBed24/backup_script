@@ -14,6 +14,7 @@ export INCLUDE="
 ~/./Documents/
 ~/./Music/
 ~/./Pictures/
+~/./Videos/
 ~/./.vimrc
 ~/./Projects/
 "
